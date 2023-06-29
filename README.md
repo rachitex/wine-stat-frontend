@@ -22,7 +22,7 @@ Once the application is running, you will see the wine statistics displayed in a
 
 Screenshot:
 
-![alt text](https://github.com/[rachitex]/[wine-stat-frontend]/blob/[master]/table-output.png?raw=true)
+![alt text](https://github.com/rachitex/wine-stat-frontend/blob/master/table-output.png)
 
 Code Files
 Here are the main code files in this repository:

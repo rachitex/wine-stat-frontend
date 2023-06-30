@@ -20,6 +20,10 @@ This will launch the application in your browser at http://localhost:3000.
 Usage
 Once the application is running, you will see the wine statistics displayed in a table format. The table shows the mean, median, and mode for Flavanoids and Gamma attributes of the wine data.
 
+Screenshot:
+
+![alt text](https://github.com/rachitex/wine-stat-frontend/blob/master/table-output.png)
+
 Code Files
 Here are the main code files in this repository:
 
